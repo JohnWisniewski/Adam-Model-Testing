@@ -1,4 +1,4 @@
 # Adam-Model-Testing
 
 
-attempting to combinie fast convergence
+John Wisniewski- attempting to combinie fast convergence
